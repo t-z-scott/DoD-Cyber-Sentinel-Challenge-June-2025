@@ -4,8 +4,9 @@ writeups for DoD Cyber Sentinel CTF on June 14th, 2025. combination of my own an
 | Title | Category | Difficulty | Author |
 | :---: | :---: | :---: | :---: |
 | [Secret.txt Society](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Secret.txt-Society.md) | Web Security | Very Easy | [@tzscott](https://github.com/t-z-scott)
-|  |  |  |  |
+| [Field Reports Mayhem](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Web%20Security/Field-Reports-Mayhem.md) | Web Security | Very Easy | [@tzscott](https://github.com/t-z-scott)
+| [Behind the Beat](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/Forensics/Behind-the-Beat.md) | Forensics | Very Easy | [@tzscott](https://github.com/t-z-scott)
 ## My Placement
 ![image](https://github.com/t-z-scott/DoD-Cyber-Sentinel-Challenge-June-2025/blob/main/dod%20ctf%20score.png)
 
-They were having some technical difficulties which stopped me from placing higher, so I'm proud of where I ended up. The tools included in Kali make the challenges fairly simple.
+They were having some technical difficulties which stopped me from downloading some files and placing higher, so I'm proud of where I ended up. The tools included in Kali make the challenges fairly simple.
