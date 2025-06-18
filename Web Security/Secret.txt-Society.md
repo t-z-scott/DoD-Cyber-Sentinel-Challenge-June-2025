@@ -11,4 +11,4 @@ _Description:_ Our team suspects that a Juche Jaguar developer accidentally left
 5. Navigate to hxxps[://]juche[.]msoidentity[.]com/robots[.]txt. You'll see the blocked directory is /juchejaguar/.
 6. Navigate to hxxps[://]juche[.]msoidentity[.]com/juchejaguar/, and you'll see the flag!
 
-> Flag: C1{r0b0ts_arent_4lways_p0lit3}
+> **Flag:** C1{r0b0ts_arent_4lways_p0lit3}
