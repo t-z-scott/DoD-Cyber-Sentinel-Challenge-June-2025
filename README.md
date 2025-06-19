@@ -30,3 +30,5 @@ They were having some technical difficulties which stopped me from downloading s
 - [DoD Cyber Sentinel Challenge Start.me by Shannon Minton](https://start.me/p/p6QRLo/dod-cyber-sentinel-challenge)
 - [DoD-Cyber-Sentinel-Challenge May 2024 README by @CyberSauce001](https://github.com/CyberSauce001/DoD-Cyber-Sentinel-Challenge/tree/main)
 - [Kao’s Cybersec Hub](https://kaorrosi.notion.site/)
+- [DoD Cyber Sentinel 2025 Challenge Writeup by JOSH](https://substack.com/inbox/post/166001122?r=5v44sa&showWelcomeOnShare=false&triedRedirect=true)
+- [CTF Handbook](https://ctf101.org/)
