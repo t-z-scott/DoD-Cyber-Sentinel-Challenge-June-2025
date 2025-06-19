@@ -1,6 +1,7 @@
 **Difficulty: Very Easy**
 
 _Description:_ TBA
+
 _Objective:_ Find the location based on the two photos.
 
 # Completion Steps
